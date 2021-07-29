@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+span{
+    color: #E76F51;
+}
+/* home sec style start */
+.home-sec{
+    background: #264653;
+    color: #FFFFFF;
+    height: 700px;
+}
+.home-row p{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+}
+.home-row h1{
+    font-weight: 600;
+    font-size: 43px;
+    line-height: 72px;
+}
+.home-row a{
+    color: #FFFFFF;
+    background: #E76F51;
+    text-decoration: none;
+    margin-top: 30px;
+}
+.modal-text{
+    color: #252B42;
+}
+/* home sec style end */
+
+/* Feture sec style start */
+.feture-sec{
+    margin-top: 64px;
+}
+.feture-sec .def-img{
+    filter: grayscale(100%);
+}
+.feture-text-box h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 43px;
+    line-height: 72px;
+}
+.feture-text-box p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #E76F51;
+}
+.feture-text-box hr{
+    width: 80px;
+    height: 2px;
+    background: #E76F51;
+}
+/* Feture sec style end */
+
+/* Happy clients sec style start  */
+.client-sec{
+    margin-top: 160px;
+    text-align: center;
+}
+.client-h-text{
+    font-weight: 600;
+    font-size: 43px;
+    line-height: 72px;
+    margin-bottom: 52px;
+}
+.client-sec p{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+    margin-top: 30px;
+    width: 70%;
+    margin: 0 auto;
+}
+.icons-sec i{
+    color: #E76F51;
+}
+.client-sec img{
+    width: 150px;
+    border-radius: 50%;
+    height: 150px;
+    margin-top: 40px;
+}
+.client-sec h2{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #23A6F0;
+}
+.client-card h1{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px; 
+    letter-spacing: 0.2px;
+    color: #252B42;
+    margin-bottom: 40px;
+}
+.card-{
+    border: 1px solid #DEDEDE;
+    border-radius: 5px;
+    padding: -5px;
+}
+/* Happy clients sec style end  */
+
+/* faq sec style start */
+.faq-h{
+    font-weight: 600;
+    font-size: 43px;
+    line-height: 50px;
+    text-align: center;
+    color: #0D0925;
+    margin-top: 158px;
+    margin-bottom: 110px;
+}
+.faq-sec img{
+    width: 80%;
+}
+.bg-none{
+    border-bottom: none;
+}
+.bg-bt{
+    background-color: none important;
+}
+/* faq sec style end */
+
+/* collection sec style start  */
+.new-collec h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 43px;
+    line-height: 72px;
+    margin-bottom: 50px;
+    margin-top: 140px;
+}
+.new-collec h2{
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 72px;
+    color: #23A6F0;
+}
+/* collection sec style end  */
+
+/* service sec style start */
+.service-sec i{
+    font-size: 60px;
+}
+.service-sec h2{
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    color: #E76F51;
+    margin-top: 30px;
+}
+.service-sec{
+    margin-top: 200px;
+    margin-bottom: 150px;
+}
+.icon{
+    text-align: center;
+    border: 1px solid #DEDEDE;
+    border-radius: 5px;
+    margin: 10px;
+    width: 80%;
+}
+.icon-area{
+    background: rgb(236, 233, 233);
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+.icon:hover i{
+    color: #E76F51;
+    cursor: pointer;
+}
+.service-sec p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+}
+.service-sec h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 43px;
+    margin-bottom: 50px;
+}
+/* service sec style end */
